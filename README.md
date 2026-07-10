@@ -2,6 +2,20 @@
 Flask‑based web application built for a Web Development module group project at Nanyang Polytechnic
 It was designed to promote intergenerational communication.
 
+## Flask App Messaging Section Preview
+
+### Contact List 
+<img src="screenshots/contact-list.png" width="600">
+
+### Unadded Users List
+<img src="screenshots/unknown-users.png" width="600">
+
+### Chat Interface
+<img src="screenshots/opened-chat.png" width="600">
+
+### Chat Starter Pane
+<img src="screenshots/chat-starter-pane.png" width="600">
+
 ## My Contributions
 - Developed the Contact Creation Form
 - Implemented the Contact Management System
