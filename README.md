@@ -8,7 +8,7 @@ It was designed to promote intergenerational communication.
 <img src="screenshots/contact-list.png" width="600">
 
 ### Unadded Users List
-<img src="screenshots/unknown-users.png" width="600">
+<img src="screenshots/unknown-users-list.png" width="600">
 
 ### Chat Interface
 <img src="screenshots/opened-chat.png" width="600">
