@@ -34,3 +34,5 @@ It was designed to promote intergenerational communication.
 
 ## Project Type
 Academic Group Project
+
+> This repository showcases my individual contributions to the project. Features developed by other team members are not listed above.
